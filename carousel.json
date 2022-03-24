@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "AdobeStock_65998155_Preview",
+    "legend": "Consultez nos abonnements",
+    "url": "images/AdobeStock_65998155_Preview.jpeg"
+  },
+  {
+    "id": 1,
+    "name": "AdobeStock_137526166_Preview",
+    "legend": "Découvrez nos nouvelles voies vertes",
+    "url": "images/AdobeStock_137526166_Preview.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "AdobeStock_264934023_Preview",
+    "legend": "Les bornes autour de vous",
+    "url": "images/AdobeStock_264934023_Preview.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "AdobeStock_169259315_Preview",
+    "legend": "Nos partenaires de réparation de vélos",
+    "url": "images/AdobeStock_169259315_Preview.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "AdobeStock_205117695_Preview",
+    "legend": "Localisez une borne de vélo.",
+    "url": "images/AdobeStock_205117695_Preview.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "AdobeStock_473721224_Preview",
+    "legend": "Payez depuis votre mobile",
+    "url": "images/AdobeStock_473721224_Preview.jpeg"
+  }
+]
